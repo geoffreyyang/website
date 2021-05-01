@@ -43,6 +43,10 @@ contact_links:
     icon_pack: fab
     name: Linkedin
     link: 'https://linkedin.com/in/geoffrey-yang/'
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/geoffreyyang/'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me

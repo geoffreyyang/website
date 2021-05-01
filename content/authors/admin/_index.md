@@ -2,7 +2,7 @@
 bio: Short one-line bio here
 education:
   courses:
-    - course: ... insert major here
+    - course: BA in [insert major here]
       institution: Dartmouth College
       year: 2025
   # - course: PhD in Artificial Intelligence
@@ -24,15 +24,15 @@ organizations:
 #   url: https://www.dartmouth.edu/
 role: Confused student
 social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
 - icon: github
   icon_pack: fab
   link: https://github.com/geoffreyyang/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/geoffrey-yang/
-# - icon: envelope
-#   icon_pack: fas
-#   link: /#contact
 # - display:
 #     header: true
 #   icon: twitter
@@ -49,4 +49,4 @@ title: Geoffrey Yang
 
 Here is where I write my biography.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "media/geoffrey_yang_resume_jan_2021.pdf" "newtab" >}}My resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "media/geoffrey_yang_resume_jan_2021.pdf" "newtab" >}}My resumé{{< /staticref >}}
