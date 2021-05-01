@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: Geoffrey Yang # Website name
 baseurl: 'https://boring-knuth-29fc51.netlify.app/' # Website URL
-copyright: 'Geoffrey Yang {year}' 
+copyright: '© Geoffrey Yang {year}' 
 # Footer text, e.g. '© {year} Me'
 
 ############################
